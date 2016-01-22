@@ -21,6 +21,7 @@ namespace FirstGame
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            this.IsMouseVisible = true;
         }
 
         /// <summary>
@@ -70,12 +71,7 @@ namespace FirstGame
             foreach (var pass in effect.CurrentTechnique.Passes)
             {
                 pass.Apply();
-
-                graphics.GraphicsDevice.DrawUserPrimitives(
-                            PrimitiveType.TriangleList,
-                    floorVerts,
-                    0,
-                    2);
+                graphics.GraphicsDevice.DrawUserPrimitives(PrimitiveType.TriangleList, floorVerts, 0, 2);
             }
         }
 
