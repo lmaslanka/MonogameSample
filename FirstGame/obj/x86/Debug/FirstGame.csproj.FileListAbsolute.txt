@@ -50,3 +50,4 @@ C:\Projects\MonogameSample\FirstGame\bin\Windows\Debug\SharpDX.XInput.xml
 C:\Projects\MonogameSample\FirstGame\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Projects\MonogameSample\FirstGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Projects\MonogameSample\FirstGame\obj\x86\Debug\FirstGame.csprojResolveAssemblyReference.cache
+C:\Projects\MonogameSample\FirstGame\bin\Windows\Debug\Content\GrassGreenTexture0001.jpg
