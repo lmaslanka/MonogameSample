@@ -44220,7 +44220,7 @@
         </member>
         <member name="F:SharpDX.Result.WaitAbandoned">
             <summary>
-            Result of a wait abandonned.
+            Result of a wait abandoned.
             </summary>
             <unmanaged>WAIT_ABANDONED</unmanaged>
         </member>
