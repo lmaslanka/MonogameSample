@@ -7097,7 +7097,7 @@
         </member>
         <member name="M:SharpDX.WIC.MetadataQueryReader.GetEnumerator">
             <summary>	
-            <p>Gets an enumerator of all metadata items at the current relative location within the metadata hierachy.</p>	
+            <p>Gets an enumerator of all metadata items at the current relative location within the metadata hierarchy.</p>	
             </summary>	
             <returns><dd>  <p>When this method returns, contais a reference to an enumerator that contains the metadata items.</p> </dd></returns>	
             <remarks>	
