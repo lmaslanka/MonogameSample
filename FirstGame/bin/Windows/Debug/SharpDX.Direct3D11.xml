@@ -562,7 +562,7 @@
             <param name="mipSlice">The mip slice.</param>
             <param name="arraySlice">The array slice.</param>
             <param name="mipSize">The size of slice. This values is resource dependent. Texture1D -> mipSize of the Width. Texture2D -> mipSize of the Height. Texture3D -> mipsize of the Depth</param>
-            <returns>The resulting miplevel calulated for this instance with this mipSlice and arraySlice.</returns>
+            <returns>The resulting miplevel calculated for this instance with this mipSlice and arraySlice.</returns>
         </member>
         <member name="P:SharpDX.Direct3D11.Resource.Dimension">
             <summary>	
