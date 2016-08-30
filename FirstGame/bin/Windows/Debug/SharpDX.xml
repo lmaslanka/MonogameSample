@@ -48217,7 +48217,7 @@
             Calls this method on each frame.
             </summary>
             <returns><c>true</c> if if the control is still active, <c>false</c> otherwise.</returns>
-            <exception cref="T:System.InvalidOperationException">An error occured </exception>
+            <exception cref="T:System.InvalidOperationException">An error occurred </exception>
         </member>
         <member name="M:SharpDX.Windows.RenderLoop.Dispose">
             <summary>
