@@ -15672,7 +15672,7 @@
         </member>
         <member name="F:SharpDX.DirectWrite.FontFeatureTag.CapitalSpacing">
             <summary>	
-            <dd> <p> Globally adjusts inter-glyph spacing for all-capital text. Most typefaces contain capitals and lowercase characters, and the capitals are positioned to work with the lowercase. When capitals are used for words, they need more space between them for legibility and esthetics. This feature would not apply to monospaced designs. Of course the user may want to override this behavior in order to do more pronounced letterspacing for esthetic reasons. </p> <p><strong>Equivalent OpenType tag:</strong> 'cpsp'</p> </dd>	
+            <dd> <p> Globally adjusts inter-glyph spacing for all-capital text. Most typefaces contain capitals and lowercase characters, and the capitals are positioned to work with the lowercase. When capitals are used for words, they need more space between them for legibility and esthetics. This feature would not apply to monospaced designs. Of course the user may want to override this behavior in order to do more pronounced letter spacing for esthetic reasons. </p> <p><strong>Equivalent OpenType tag:</strong> 'cpsp'</p> </dd>	
             </summary>	
             <!-- No matching elements were found for the following include tag --><include file="..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='DWRITE_FONT_FEATURE_TAG_CAPITAL_SPACING']/*"/>	
             <msdn-id>dd368069</msdn-id>	
