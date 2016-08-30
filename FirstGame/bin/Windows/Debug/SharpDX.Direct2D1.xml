@@ -14707,7 +14707,7 @@
             <summary>	
             <p>Sets the degree of opacity of this brush.</p>	
             </summary>	
-            <param name="opacity"><dd>  <p>A value between zero and 1 that indicates the opacity of the brush. This value is a constant multiplier that linearly scales the alpha value of all pixels filled by the brush. The opacity values are clamped in the range 0?1 before they are multipled together. </p> </dd></param>	
+            <param name="opacity"><dd>  <p>A value between zero and 1 that indicates the opacity of the brush. This value is a constant multiplier that linearly scales the alpha value of all pixels filled by the brush. The opacity values are clamped in the range 0?1 before they are multiplied together. </p> </dd></param>	
             <!-- No matching elements were found for the following include tag --><include file=".\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ID2D1Brush::SetOpacity']/*"/>	
             <msdn-id>dd371181</msdn-id>	
             <unmanaged>void ID2D1Brush::SetOpacity([In] float opacity)</unmanaged>	
@@ -14730,7 +14730,7 @@
             <summary>	
             <p>Gets the degree of opacity of this brush.   </p>	
             </summary>	
-            <returns><p>A value between zero and 1 that indicates the opacity of the brush. This value is a constant multiplier that linearly scales the alpha value of all pixels filled by the brush. The opacity values are clamped in the range 0?1 before they are multipled together. </p></returns>	
+            <returns><p>A value between zero and 1 that indicates the opacity of the brush. This value is a constant multiplier that linearly scales the alpha value of all pixels filled by the brush. The opacity values are clamped in the range 0?1 before they are multiplied together. </p></returns>	
             <!-- No matching elements were found for the following include tag --><include file=".\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ID2D1Brush::GetOpacity']/*"/>	
             <msdn-id>dd371176</msdn-id>	
             <unmanaged>float ID2D1Brush::GetOpacity()</unmanaged>	
