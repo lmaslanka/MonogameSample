@@ -7415,12 +7415,12 @@
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.LeftSideBearing">
             <summary>
-            The amount of space between the left side ofthe character and its first pixel in the X dimention.
+            The amount of space between the left side ofthe character and its first pixel in the X dimension.
             </summary>
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.RightSideBearing">
             <summary>
-            The amount of space between the right side of the character and its last pixel in the X dimention.
+            The amount of space between the right side of the character and its last pixel in the X dimension.
             </summary>
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.Width">
