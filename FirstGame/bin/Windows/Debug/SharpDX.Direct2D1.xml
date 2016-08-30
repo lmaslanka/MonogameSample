@@ -6961,7 +6961,7 @@
             <param name="enumUnknownOut">No documentation.</param>	
             <returns><p>If this method succeeds, it returns <strong><see cref="F:SharpDX.Result.Ok"/></strong>. Otherwise, it returns an <strong><see cref="T:SharpDX.Result"/></strong> error code.</p></returns>	
             <remarks>	
-            <p>Component types must be enumerated seperately. Combinations of component types and <strong><see cref="F:SharpDX.WIC.ComponentType.AllComponents"/></strong> are unsupported.</p>	
+            <p>Component types must be enumerated separately. Combinations of component types and <strong><see cref="F:SharpDX.WIC.ComponentType.AllComponents"/></strong> are unsupported.</p>	
             </remarks>	
             <!-- No matching elements were found for the following include tag --><include file="..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='IWICImagingFactory::CreateComponentEnumerator']/*"/>	
             <msdn-id>ee690301</msdn-id>	
