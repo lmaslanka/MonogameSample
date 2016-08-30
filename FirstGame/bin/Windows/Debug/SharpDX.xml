@@ -59,9 +59,9 @@
         <member name="M:SharpDX.AngleSingle.#ctor(System.Single,SharpDX.AngleType)">
             <summary>
             Initializes a new instance of the SharpDX.AngleSingle structure with the
-            given unit dependant angle and unit type.
+            given unit dependent angle and unit type.
             </summary>
-            <param name="angle">A unit dependant measure of the angle.</param>
+            <param name="angle">A unit dependent measure of the angle.</param>
             <param name="type">The type of unit the angle argument is.</param>
         </member>
         <member name="M:SharpDX.AngleSingle.#ctor(System.Single,System.Single)">
