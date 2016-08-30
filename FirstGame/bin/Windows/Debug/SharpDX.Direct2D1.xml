@@ -23302,7 +23302,7 @@
         </member>
         <member name="F:SharpDX.Direct2D1.PixelFormat.AlphaMode">
             <summary>	
-            <dd> <p>A value that specifies whether the alpha channel is using pre-multiplied alpha, straight alpha, whether it should be ignored and considered opaque, or whether it is unkown.  </p> </dd>	
+            <dd> <p>A value that specifies whether the alpha channel is using pre-multiplied alpha, straight alpha, whether it should be ignored and considered opaque, or whether it is unknown.  </p> </dd>	
             </summary>	
             <!-- No matching elements were found for the following include tag --><include file=".\..\Documentation\CodeComments.xml" path="/comments/comment[@id='D2D1_PIXEL_FORMAT::alphaMode']/*"/>	
             <msdn-id>dd368138</msdn-id>	
