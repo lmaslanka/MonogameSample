@@ -9807,7 +9807,7 @@
             <summary>
             The user tapped the device twice which is always preceded by a Tap gesture.
             </summary>
-            <remarks>If the time between two touchs are long enough, insted two seperate single Tap gestures will be generated.</remarks>
+            <remarks>If the time between two touchs are long enough, insted two separate single Tap gestures will be generated.</remarks>
         </member>
         <member name="F:Microsoft.Xna.Framework.Input.Touch.GestureType.VerticalDrag">
             <summary>
