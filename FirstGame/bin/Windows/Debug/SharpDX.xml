@@ -59,9 +59,9 @@
         <member name="M:SharpDX.AngleSingle.#ctor(System.Single,SharpDX.AngleType)">
             <summary>
             Initializes a new instance of the SharpDX.AngleSingle structure with the
-            given unit dependant angle and unit type.
+            given unit dependent angle and unit type.
             </summary>
-            <param name="angle">A unit dependant measure of the angle.</param>
+            <param name="angle">A unit dependent measure of the angle.</param>
             <param name="type">The type of unit the angle argument is.</param>
         </member>
         <member name="M:SharpDX.AngleSingle.#ctor(System.Single,System.Single)">
@@ -44220,7 +44220,7 @@
         </member>
         <member name="F:SharpDX.Result.WaitAbandoned">
             <summary>
-            Result of a wait abandonned.
+            Result of a wait abandoned.
             </summary>
             <unmanaged>WAIT_ABANDONED</unmanaged>
         </member>
@@ -48217,7 +48217,7 @@
             Calls this method on each frame.
             </summary>
             <returns><c>true</c> if if the control is still active, <c>false</c> otherwise.</returns>
-            <exception cref="T:System.InvalidOperationException">An error occured </exception>
+            <exception cref="T:System.InvalidOperationException">An error occurred </exception>
         </member>
         <member name="M:SharpDX.Windows.RenderLoop.Dispose">
             <summary>

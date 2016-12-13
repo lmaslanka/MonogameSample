@@ -381,7 +381,7 @@
             <param name="resourcesOut"><dd>  <p>An array of <strong><see cref="T:SharpDX.DXGI.Resource"/></strong> interfaces.</p> </dd></param>	
             <param name="residencyStatusRef"><dd>  <p>An array of <strong><see cref="T:SharpDX.DXGI.Residency"/></strong> flags. Each element describes the residency status for corresponding element in  the <em>ppResources</em> argument array.</p> </dd></param>	
             <param name="numResources"><dd>  <p>The number of resources in the <em>ppResources</em> argument array and <em>pResidencyStatus</em> argument array.</p> </dd></param>	
-            <returns><p>Returns <see cref="F:SharpDX.Result.Ok"/> if successfull; otherwise, returns <see cref="F:SharpDX.DXGI.ResultCode.DeviceRemoved"/>, E_INVALIDARG, or  E_POINTER (see WinError.h for more information).</p></returns>	
+            <returns><p>Returns <see cref="F:SharpDX.Result.Ok"/> if successful; otherwise, returns <see cref="F:SharpDX.DXGI.ResultCode.DeviceRemoved"/>, E_INVALIDARG, or  E_POINTER (see WinError.h for more information).</p></returns>	
             <remarks>	
             <p>The information returned by the <em>pResidencyStatus</em> argument array describes the residency status at the time that the <strong>QueryResourceResidency</strong> method was called.   Note that the residency status will constantly change.</p><p>If you call the <strong>QueryResourceResidency</strong> method during a device removed state, the <em>pResidencyStatus</em> argument will return the <see cref="F:SharpDX.DXGI.Residency.EvictedToDisk"/> flag.</p><p><strong>Note</strong>??This method should not be called every frame as it incurs a non-trivial amount of overhead.</p>	
             </remarks>	
@@ -397,7 +397,7 @@
             <param name="resourcesOut"><dd>  <p>An array of <strong><see cref="T:SharpDX.DXGI.Resource"/></strong> interfaces.</p> </dd></param>	
             <param name="residencyStatusRef"><dd>  <p>An array of <strong><see cref="T:SharpDX.DXGI.Residency"/></strong> flags. Each element describes the residency status for corresponding element in  the <em>ppResources</em> argument array.</p> </dd></param>	
             <param name="numResources"><dd>  <p>The number of resources in the <em>ppResources</em> argument array and <em>pResidencyStatus</em> argument array.</p> </dd></param>	
-            <returns><p>Returns <see cref="F:SharpDX.Result.Ok"/> if successfull; otherwise, returns <see cref="F:SharpDX.DXGI.ResultCode.DeviceRemoved"/>, E_INVALIDARG, or  E_POINTER (see WinError.h for more information).</p></returns>	
+            <returns><p>Returns <see cref="F:SharpDX.Result.Ok"/> if successful; otherwise, returns <see cref="F:SharpDX.DXGI.ResultCode.DeviceRemoved"/>, E_INVALIDARG, or  E_POINTER (see WinError.h for more information).</p></returns>	
             <remarks>	
             <p>The information returned by the <em>pResidencyStatus</em> argument array describes the residency status at the time that the <strong>QueryResourceResidency</strong> method was called.   Note that the residency status will constantly change.</p><p>If you call the <strong>QueryResourceResidency</strong> method during a device removed state, the <em>pResidencyStatus</em> argument will return the <see cref="F:SharpDX.DXGI.Residency.EvictedToDisk"/> flag.</p><p><strong>Note</strong>??This method should not be called every frame as it incurs a non-trivial amount of overhead.</p>	
             </remarks>	

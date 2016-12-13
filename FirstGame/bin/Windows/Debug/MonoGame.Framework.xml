@@ -4790,7 +4790,7 @@
         <member name="P:Microsoft.Xna.Framework.GraphicsDeviceManager.HardwareModeSwitch">
             <summary>
             Gets or sets the boolean which defines how window switches from windowed to fullscreen state.
-            "Hard" mode(true) is slow to switch, but more effecient for performance, while "soft" mode(false) is vice versa.
+            "Hard" mode(true) is slow to switch, but more efficient for performance, while "soft" mode(false) is vice versa.
             The default value is <c>true</c>. Can only be changed before graphics device is created (in game's constructor).
             </summary>
         </member>
@@ -7415,12 +7415,12 @@
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.LeftSideBearing">
             <summary>
-            The amount of space between the left side ofthe character and its first pixel in the X dimention.
+            The amount of space between the left side ofthe character and its first pixel in the X dimension.
             </summary>
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.RightSideBearing">
             <summary>
-            The amount of space between the right side of the character and its last pixel in the X dimention.
+            The amount of space between the right side of the character and its last pixel in the X dimension.
             </summary>
         </member>
         <member name="F:Microsoft.Xna.Framework.Graphics.SpriteFont.Glyph.Width">
@@ -9807,7 +9807,7 @@
             <summary>
             The user tapped the device twice which is always preceded by a Tap gesture.
             </summary>
-            <remarks>If the time between two touchs are long enough, insted two seperate single Tap gestures will be generated.</remarks>
+            <remarks>If the time between two touchs are long enough, insted two separate single Tap gestures will be generated.</remarks>
         </member>
         <member name="F:Microsoft.Xna.Framework.Input.Touch.GestureType.VerticalDrag">
             <summary>
@@ -11942,7 +11942,7 @@
             Performs an unsigned bitwise right shift with the specified number
             </summary>
             <param name="number">Number to operate on</param>
-            <param name="bits">Ammount of bits to shift</param>
+            <param name="bits">Amount of bits to shift</param>
             <returns>The resulting number from the shift operation</returns>
         </member>
         <member name="M:MonoGame.Utilities.SharedUtils.ReadInput(System.IO.TextReader,System.Byte[],System.Int32,System.Int32)">
